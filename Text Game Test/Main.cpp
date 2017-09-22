@@ -71,7 +71,8 @@ void main() {
 		"-                                      -\n"
 		"----------------------------------------\n\n\n"
 		"Your name is " << character_name << " and you are an adventurer!\n\n"
-		"You have heard about a group of bandits that have been terrorizing a local town and you want to put a stop to it.";
+		"You have heard about a group of bandits that have been terrorizing a local town and you want to put a stop to it."
+		"Test for github!";
 
 		
 
